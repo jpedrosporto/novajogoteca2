@@ -23,7 +23,7 @@ começamos visualizando a lista inicial de jogos
 <p align= "left">
 Ao adicionar "/novo" no final da url, podemos acessar a página do formulário para adicionarmos um jogo, com sua categoria e console
 </p>
-<img src="https://user-images.githubusercontent.com/108818685/183922043-90e24517-3a0d-4c1d-998f-d4377b4ae01d.png">
+<img src="https://user-images.githubusercontent.com/108818685/183922043-90e24517-3a0d-4c1d-998f-d4377b4ae01d.png" style= "border: solid;">
 
 <h1>
 Ajuda
