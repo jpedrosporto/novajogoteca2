@@ -2,14 +2,14 @@
 Jogoteca
 </h1>
 <p align= "left">
-O projeto jogoteca foi desenvolvido com o objetivo de desenvolver as habilidades e conhecimentos na área de programação em python e html, utilizando do flask. O programa consiste em uma lista de jogos onde podemos adicionar outros jogos a esta.
+O projeto jogoteca foi desenvolvido com o objetivo de desenvolver as habilidades e conhecimentos na área de programação em python e html, utilizando do flask. O programa consiste em uma lista de jogos onde podemos adicionar outros jogos nesta.
 </p>
 
 <h1>
 Funcionalidade
 </h1>
 <p align= "left">
-Desenvolvido em python e html, o site serve para analizarmos uma lista de jogos, com suas respectivas categorias e console utilizado no mesmo. Podendo adicionar novos jogos na mesma
+Desenvolvido em python e html, o site serve para analizarmos uma lista de jogos, com suas respectivas categorias e console utilizado no mesmo.
 </p>
 
 <h1>
@@ -23,7 +23,7 @@ começamos visualizando a lista inicial de jogos
 
 
 <p align= "left">
-Ao clicar no botão, o usuário é redirecionado para a página "/novo", onde se encontra um formulário para adicionarmos um jogo, com sua categoria e console. Após o preenchimento, o usuário é redirecionado novamente para a página principal, onde consegue visualizar o jogo adicionado.
+Ao clicar no botão, o usuário é redirecionado para a página de cadastro, onde se encontra um formulário para adicionarmos um jogo, com sua categoria e console. Após o preenchimento, o usuário é redirecionado novamente para a página principal, onde consegue visualizar o jogo adicionado.
 </p>
 <img src="https://user-images.githubusercontent.com/108818685/185449921-bde346cb-a146-4c9d-8357-ae0ca1687b54.png">
 
